@@ -1,0 +1,3 @@
+rootProject.name = 'starter-app'
+enableFeaturePreview('IMPROVED_POM_SUPPORT')
+
