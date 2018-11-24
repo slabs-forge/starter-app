@@ -16,10 +16,7 @@ dependencies {
     // Spring boot
     implementation 'org.springframework.boot:spring-boot-dependencies:2.1.0.RELEASE'
     implementation 'org.springframework.boot:spring-boot-starter'
-
-    implementation ('org.yaml:snakeyaml:1.19') {
-       force = true
-    }
+    
     
     // Lombok
     compile'org.projectlombok:lombok:1.18.4'
